@@ -15,7 +15,7 @@ const VideoCard = ({
             <div className="videoCard__info">
                 <img
                     className="videoCard__avatar"
-                    src="https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
+                    src={channelImage}
                     alt="avatar"
                 />
                 <div className="videoCard__text">
