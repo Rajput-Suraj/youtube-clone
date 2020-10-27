@@ -13,6 +13,7 @@
 @media only screen and (max-width: 600px) {
     .sidebar {
         width: 12%;
+        flex: 0;
     }
     .sidebarRow {
         display: flex;
